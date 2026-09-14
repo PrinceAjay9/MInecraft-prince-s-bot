@@ -9,7 +9,7 @@
     "ip": "GALAXZSMP-prince.aternos.me:13785",
     "port": 13785,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
